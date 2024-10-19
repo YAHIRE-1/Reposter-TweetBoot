@@ -20,3 +20,6 @@ Este proyecto es un bot automatizado que interactúa con la API de Twitter para 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/YAHIRE-1/Reposter-TweetBoot.git
+## Ejecuta los comandos 
+ 1. npm init -y
+ 2. npm i dotenv twitter-api-v2
