@@ -1,0 +1,22 @@
+# Twitter Automation Bot
+
+Este proyecto es un bot automatizado que interactúa con la API de Twitter para realizar acciones de "me gusta" y retweet en tweets que contienen palabras clave específicas. El bot utiliza la autenticación de la API de Twitter y realiza búsquedas en tiempo real para encontrar y actuar sobre tweets.
+
+## Características
+
+- **Dar "me gusta"** a los tweets que contienen una palabra clave específica.
+- **Retweet** automático del primer tweet encontrado que coincida con la palabra clave.
+- Manejo de **errores** para garantizar que el bot funcione sin interrupciones.
+- Uso de la API de **Twitter v2** para realizar búsquedas y acciones.
+  
+## Requisitos
+
+1. **Node.js** (v14 o superior)
+2. **Twitter Developer Account** con las credenciales de acceso (Bearer Token y App ID)
+3. **API de Twitter v2** activada en la cuenta de desarrollador (NECESITA UNA CUENTA PREMIUM/PLUS)
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/YAHIRE-1/Login-en-PHP.git
